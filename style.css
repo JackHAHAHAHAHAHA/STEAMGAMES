@@ -4,6 +4,8 @@ body{
 .cursor{
     animation: move 1s infinite alternate;
     transition: width .3s, heigth .3s;
-    width: 25px;
-    height: 25px;
+    width: 2rem;
+    height: 2rem;
+    position: absolute;
+    border-radius: 25%;
 }
