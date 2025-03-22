@@ -1,4 +1,4 @@
-html{
+html, body{
     cursor:none;
 }
 .cursor{
@@ -9,3 +9,4 @@ html{
     position: absolute;
     border-radius: 25%;
 }
+
