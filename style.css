@@ -1,0 +1,7 @@
+body{
+    cursor:none
+}
+.cursor{
+    animation: move 1s infinite alternate;
+    transition: width .3s, heigth .3s;
+}
